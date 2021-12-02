@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MAO_Mechanoids_MenderBase.label>치료기 충전소</MAO_Mechanoids_MenderBase.label>
+  <MAO_Mechanoids_MenderBase.description>치료기를 조립하고 충전하기 위한 충전소입니다.</MAO_Mechanoids_MenderBase.description>
+
+  <MAO_Mechanoids_AssemblerBase.label>조립기 충전소</MAO_Mechanoids_AssemblerBase.label>
+  <MAO_Mechanoids_AssemblerBase.description>조립기를 조립하고 충전하기 위한 충전소입니다.</MAO_Mechanoids_AssemblerBase.description>
+
+
+</LanguageData>

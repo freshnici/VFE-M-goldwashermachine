@@ -1,0 +1,7 @@
+c:\GAMES\Rimworld\Mods\mechanoidsaddon\Assemblies\MechanoidAddon.dll
+c:\GAMES\Rimworld\Mods\mechanoidsaddon\Assemblies\MechanoidAddon.pdb
+c:\GAMES\Rimworld\Mods\mechanoidsaddon\Source\MechanoidAddon\obj\Debug\MechanoidAddon.csprojAssemblyReference.cache
+c:\GAMES\Rimworld\Mods\mechanoidsaddon\Source\MechanoidAddon\obj\Debug\MechanoidAddon.csproj.CoreCompileInputs.cache
+c:\GAMES\Rimworld\Mods\mechanoidsaddon\Source\MechanoidAddon\obj\Debug\MechanoidAddon.csproj.CopyComplete
+c:\GAMES\Rimworld\Mods\mechanoidsaddon\Source\MechanoidAddon\obj\Debug\MechanoidAddon.dll
+c:\GAMES\Rimworld\Mods\mechanoidsaddon\Source\MechanoidAddon\obj\Debug\MechanoidAddon.pdb

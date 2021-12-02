@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MAO_MechanoidConstructionLamp.label>건설 램프</MAO_MechanoidConstructionLamp.label>
+  <MAO_MechanoidConstructionLamp.description>강력한 전등으로도 작동하는 튼튼하고 실용적인 강철 기둥으로, 보통은 어두울 공장을 밝히고 큰 지붕을 지지합니다.</MAO_MechanoidConstructionLamp.description>
+
+  <MAO_MechanoidLiquidFreezer.label>액체 냉장고</MAO_MechanoidLiquidFreezer.label>
+  <MAO_MechanoidLiquidFreezer.description>허리 높이의 상자 냉장고로, 매우 낮은 온도로 유지되는, 화학적으로 변형된 뉴트로아민이 얇게 채워져 있습니다. 전력이 필요하지 않고 보관한 음식을 썩지 않게 합니다.</MAO_MechanoidLiquidFreezer.description>
+
+
+</LanguageData>

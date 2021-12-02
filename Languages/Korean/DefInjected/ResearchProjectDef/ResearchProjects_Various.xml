@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MAO_MechanoidStructures.label>메카노이드 구조물</MAO_MechanoidStructures.label>
+  <MAO_MechanoidStructures.description>높은 비용으로 강력한 메카노이드 구조물을 짓는 능력을 연구합니다.</MAO_MechanoidStructures.description>
+
+  <MAO_AdvancedDroneAssembly.label>고급 드론 조립</MAO_AdvancedDroneAssembly.label>
+  <MAO_AdvancedDroneAssembly.description>복잡한 정보를 분석하고 처리할 수 있는 더 진보한 드론을 연구합니다.</MAO_AdvancedDroneAssembly.description>
+
+
+</LanguageData>

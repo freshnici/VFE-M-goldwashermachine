@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MAO_MechaniteUnderArmor.label>메카나이트 내갑</MAO_MechaniteUnderArmor.label>
+  <MAO_MechaniteUnderArmor.description>당혹스럽게 얇지만 튼튼한, 나노봇이 주입된 망사 내갑입니다. 내장된 나노봇은 사용자의 소화기를 최적화하여 배고픔을 억누릅니다. 오래 전 잊혀진 군인들이 먹지 않고 장시간 화력전을 견딜 수 있도록 이 갑옷을 입었다는 가설이 있습니다.</MAO_MechaniteUnderArmor.description>
+
+  <MAO_MechanitePants.label>메카나이트 바지</MAO_MechanitePants.label>
+  <MAO_MechanitePants.description>&gt;당혹스럽게 얇지만 튼튼한, 나노ㅂ이 주입된 바지입니다. 내장된 나노봇은 다리의 산소 효율을 최적화합니다. 오래 전 잊혀진 군인들이 긴 거리를 엄청난 속도로 행군하기 위해 입었습니다.</MAO_MechanitePants.description>
+
+
+</LanguageData>

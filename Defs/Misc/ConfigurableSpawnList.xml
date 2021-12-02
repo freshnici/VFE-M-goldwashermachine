@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<VanillaFurnitureExpanded.ConfigurableSpawnerDef>
+		<defName>NG_Gold</defName>
+		<listName>onlyGold</listName>
+		<building>NG_GoldWasher</building>
+		<GizmoIcon>UI/Commands/VCEF_Command_ChooseSmallFish</GizmoIcon>
+		<GizmoDescription>GizmoDescriptionSmall</GizmoDescription>
+		<GizmoLabel>NG_GoldWasheronlygold</GizmoLabel>
+		<timeInTicks>6000</timeInTicks>
+		<items>
+			<li>Gold</li>
+		</items>
+	</VanillaFurnitureExpanded.ConfigurableSpawnerDef>
+</Defs>

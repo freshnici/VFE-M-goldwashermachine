@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MAO_Mechanoids_Mender.label>치료기</MAO_Mechanoids_Mender.label>
+  <MAO_Mechanoids_Mender.labelPlural>치료기들</MAO_Mechanoids_Mender.labelPlural>
+  <MAO_Mechanoids_Mender.labelMale>남성 치료기</MAO_Mechanoids_Mender.labelMale>
+  <MAO_Mechanoids_Mender.labelMalePlural>남성 치료기들</MAO_Mechanoids_Mender.labelMalePlural>
+  <MAO_Mechanoids_Mender.labelFemale>여성 치료기</MAO_Mechanoids_Mender.labelFemale>
+  <MAO_Mechanoids_Mender.labelFemalePlural>여성 치료기들</MAO_Mechanoids_Mender.labelFemalePlural>
+
+  <MAO_Mechanoids_Assembler.label>조립기</MAO_Mechanoids_Assembler.label>
+  <MAO_Mechanoids_Assembler.labelPlural>조립기들</MAO_Mechanoids_Assembler.labelPlural>
+  <MAO_Mechanoids_Assembler.labelMale>남성 조립기</MAO_Mechanoids_Assembler.labelMale>
+  <MAO_Mechanoids_Assembler.labelMalePlural>남성 조립기들</MAO_Mechanoids_Assembler.labelMalePlural>
+  <MAO_Mechanoids_Assembler.labelFemale>여성 조립기</MAO_Mechanoids_Assembler.labelFemale>
+  <MAO_Mechanoids_Assembler.labelFemalePlural>여성 조립기들</MAO_Mechanoids_Assembler.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SmallFish>작은 물고기</SmallFish>
+  <MediumFish>보통 물고기</MediumFish>
+  <LargeFish>큰 물고기</LargeFish>
+  <GizmoDescriptionSmall>물고기 유도기가 작은 물고기를 잡게 합니다.</GizmoDescriptionSmall>
+  <GizmoDescriptionMedium>물고기 유도기가 보통 물고기를 잡게 합니다.</GizmoDescriptionMedium>
+  <GizmoDescriptionLarge>물고기 유도기가 큰 물고기를 잡게 합니다.</GizmoDescriptionLarge>
+  <MAO_FishTaunterGizmoLabelSmall>작은 물고기</MAO_FishTaunterGizmoLabelSmall>
+  <MAO_FishTaunterGizmoLabelMedium>보통 물고기</MAO_FishTaunterGizmoLabelMedium>
+  <MAO_FishTaunterGizmoLabelLarge>큰 물고기</MAO_FishTaunterGizmoLabelLarge>
+
+</LanguageData>

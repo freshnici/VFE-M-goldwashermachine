@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MAO_Mechanoids_Mender.label>치료기</MAO_Mechanoids_Mender.label>
+  <MAO_Mechanoids_Mender.description>평균적인 인간보다 약간 큰 튼튼한 반자율적 드론입니다. 이 드론은 진단 및 의학적 기구와 병렬 스캐닝 및 미시적 수준의 분석이 가능한 고급 초점 덱을 달고 있습니다. 이 드론은 약품이 있다면 아마추어 수준으로 상처를 치료하고 아픈 사람을 돌볼 수 있습니다.</MAO_Mechanoids_Mender.description>
+  <MAO_Mechanoids_Mender.tools.0.label>머리</MAO_Mechanoids_Mender.tools.0.label>
+
+  <MAO_Mechanoids_Assembler.label>조립기</MAO_Mechanoids_Assembler.label>
+  <MAO_Mechanoids_Assembler.description>평균적인 인간보다 약간 큰 튼튼한 반자율적 드론입니다. 큰 각막 기관과 간단한 공구가 달려 아마추어 수준에서 빠르게 가구를 조립하거나 벽을 세울 수 있습니다.</MAO_Mechanoids_Assembler.description>
+  <MAO_Mechanoids_Assembler.tools.0.label>머리</MAO_Mechanoids_Assembler.tools.0.label>
+
+
+</LanguageData>
